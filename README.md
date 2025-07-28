@@ -1,7 +1,7 @@
 ## Joseph Cusumano Github Profile 👋
 
-🔭 Hello! My name is Joseph Cusumano and I am currently a masters student at Stevens Instiute of Technology studying Machine Learning!
-🌱 I specialize in Deep Learning and Machine Learning - I enjoy developing computer vision based applicaions and using applied ML/DL to solve real world problems!
+-🔭 Hello! My name is Joseph Cusumano and I am currently a masters student at Stevens Instiute of Technology studying Machine Learning!
+-🌱 I specialize in Deep Learning and Machine Learning - I enjoy developing computer vision based applicaions and using applied ML/DL to solve real world problems!
   
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Cusumano-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephmcusumano)
